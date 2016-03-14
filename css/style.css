@@ -54,7 +54,7 @@ img {
 }
 
 /* slider2 */
-.js-slider--2wrap {
+.js-slider2_wrap {
 	position: relative;
 }
 
@@ -81,8 +81,8 @@ span:nth-child(2) {
 	margin: auto;
 }
 
-.js-slider--2 {
-	width: 300px;
+.js-slider2 {
+	width: 100px;
 	height: auto;
 	line-height: 0;
 	margin: 0 auto;
@@ -90,13 +90,13 @@ span:nth-child(2) {
 	border-radius: 5px;
 }
 
-.slider--2 {
+.slider2 {
 	clear: both;
 	width: 900px;
 	position: relative;
 	left: 0;
 }
 
-.slider__item--2 {
+.slider2 li {
 	float: left;
 }
