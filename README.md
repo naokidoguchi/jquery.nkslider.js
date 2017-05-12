@@ -1,3 +1,3 @@
 # jquery.nkslider.js
-簡単な(作りが)スライダープラグイン<br>
-srcの中
+適当に作りました。
+scrの中に
