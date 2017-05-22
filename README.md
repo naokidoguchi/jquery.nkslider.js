@@ -1,3 +1,3 @@
 # jquery.nkslider.js
-適当に作りました。
-scrの中に
+jqueryプラグイン
+低機能スライダー
